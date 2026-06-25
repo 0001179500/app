@@ -28,7 +28,7 @@ def login():
         <title>Login</title>
     </head>
     <body>
-        <h2>Área de Baguga</h2>
+        <h2>Área de ademen</h2>
         <form method="post">
             <input type="text" name="usuario" placeholder="Usuário" required><br><br>
             <input type="password" name="senha" placeholder="Senha" required><br><br>
